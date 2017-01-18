@@ -1,5 +1,5 @@
 # Spring-Boot-notes
-
+```
 Actuators for monitoring
 pom.xml updates 
 can change the port # for monitoring
@@ -16,3 +16,4 @@ JPA
 extends CrudRepository<Entity name, String>
 findAll() - returns an iterable
 findAll().forEach(someList::add); //lambda expression
+```
